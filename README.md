@@ -26,10 +26,10 @@ All the features can be accessed through the menu. They can also be directly acc
 
 ## How to install
 Use the package manager pip to install:
-*     $ pip install SimpleCalculator2023
+*     pip install simplecalculator0001==0.3
 
 The import should be done with reference to:
-*     from SimpleCalculator2023 import Calculator
+*     from simplecalculator0001 import Calculator
 
 The codes are available on:
-https://github.com/renatomarianoo/SimpleCalculator2023.git
+https://github.com/renatomarianoo/simplecalculator0001
