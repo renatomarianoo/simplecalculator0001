@@ -1,0 +1,10 @@
+setup.py
+simplecalculator0001/__init__.py
+simplecalculator0001/calculator.py
+simplecalculator0001.egg-info/PKG-INFO
+simplecalculator0001.egg-info/SOURCES.txt
+simplecalculator0001.egg-info/dependency_links.txt
+simplecalculator0001.egg-info/not-zip-safe
+simplecalculator0001.egg-info/top_level.txt
+simplecalculator0001/tests/__init__.py
+simplecalculator0001/tests/tests.py
